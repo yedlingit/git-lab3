@@ -1,3 +1,3 @@
 Imie: Hubert
 Nazwisko: Jedliński
-Ulubiona Technologia: AI 
+Ulubiona Technologia: AI
